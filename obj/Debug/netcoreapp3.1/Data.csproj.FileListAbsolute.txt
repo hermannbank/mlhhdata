@@ -1,0 +1,11 @@
+/home/henrik/Documents/Data/bin/Debug/netcoreapp3.1/Data
+/home/henrik/Documents/Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/home/henrik/Documents/Data/bin/Debug/netcoreapp3.1/Data.runtimeconfig.json
+/home/henrik/Documents/Data/bin/Debug/netcoreapp3.1/Data.runtimeconfig.dev.json
+/home/henrik/Documents/Data/bin/Debug/netcoreapp3.1/Data.dll
+/home/henrik/Documents/Data/bin/Debug/netcoreapp3.1/Data.pdb
+/home/henrik/Documents/Data/obj/Debug/netcoreapp3.1/Data.csprojAssemblyReference.cache
+/home/henrik/Documents/Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/home/henrik/Documents/Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/home/henrik/Documents/Data/obj/Debug/netcoreapp3.1/Data.dll
+/home/henrik/Documents/Data/obj/Debug/netcoreapp3.1/Data.pdb
